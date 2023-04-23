@@ -25,8 +25,8 @@ Hi, I'm Vikram.
 
 My favourite languages: 
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Java |
-|     2| Scala    |
-|     3| Python       |
+| Languages |
+|-----------|
+| Java |
+ |Scala    |
+ Python       |
