@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+
+Hi, I'm Vikram.
+
+- I'm currently learning system design, distributes systems, functionaly programming and progamming languages.
+- ⚡ Fun fact: I love going to hikes on mountains.
+
+My favourite languages: 
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Java |
+|     2| Scala    |
+|     3| Python       |
