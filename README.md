@@ -24,9 +24,3 @@ Hi, I'm Vikram.
 I code in Java, Scala, and Python.
 
 ⚡ Fun fact: I love going to hikes on mountains.
-
-| I code in|
-|-----------|
-| Java |
- |Scala    |
- Python       |
