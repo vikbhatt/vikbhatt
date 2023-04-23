@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 Hi, I'm Vikram.
 
-- I'm currently learning system design, distributes systems, functionaly programming and progamming languages.
-- ⚡ Fun fact: I love going to hikes on mountains.
+🌱 I’m currently learning ... system design, distributes systems, functionaly programming and progamming languages.
+⚡ Fun fact: I love going to hikes on mountains.
 
 My favourite languages: 
 
