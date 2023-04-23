@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-Hi, I'm Vikram.
+I'm Vikram.
 
 🌱 I’m currently learning system design, distributes systems, functionaly programming and progamming languages. 
 
