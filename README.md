@@ -23,9 +23,7 @@ Hi, I'm Vikram.
 
 ⚡ Fun fact: I love going to hikes on mountains.
 
-My favourite languages: 
 
-| Languages |
 |-----------|
 | Java |
  |Scala    |
