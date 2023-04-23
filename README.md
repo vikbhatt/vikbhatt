@@ -23,7 +23,7 @@ Hi, I'm Vikram.
 
 ⚡ Fun fact: I love going to hikes on mountains.
 
-
+| I code in|
 |-----------|
 | Java |
  |Scala    |
