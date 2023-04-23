@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 Hi, I'm Vikram.
 
-🌱 I’m currently learning system design, distributes systems, functionaly programming and progamming languages. I code in Java, Scala, and Python.
+🌱 I’m currently learning system design, distributes systems, functionaly programming and progamming languages. 
+
+👉 I code in Java, Scala, and Python.
 
 ⚡ Fun fact: I love going to hikes on mountains.
