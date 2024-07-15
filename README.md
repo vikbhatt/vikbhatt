@@ -21,6 +21,6 @@ I'm Vikram.
 
 🌱 I’m currently learning system design, distributes systems, and functional progamming. 
 
-👉 I code in Java, Scala, and Python.
+👉 I code in JC++, Java, and Go.
 
 ⚡ Fun fact: I love mountain treks and hikes.
